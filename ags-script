@@ -1,0 +1,15 @@
+}
+alias "w" "wait"
+alias "yaw1" "cl_yawspeed -1300"
+alias "yaw2" "cl_yawspeed 400"
+alias "+lvo" "+left; +moveleft"
+alias "-lvo" "-left; -moveleft"
+alias "+dno" "+right; +moveright"
+alias "-dno" "-right; -moveright"
+alias "lgs" "+lvo; yaw1; w; +duck; yaw2; w; -duck; -lvo"
+alias "dgs" "+dno; yaw1; w; +duck; yaw2; w; -duck; -dno"
+alias "+ags" "alias _special @ags; @ags"
+alias "-ags" "alias _special"
+alias "@ags" "special; lgs; dgs"
+bind KEY "+ags; fps"
+}
