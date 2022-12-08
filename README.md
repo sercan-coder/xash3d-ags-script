@@ -1,7 +1,6 @@
 # Xash 3D AGS SCRİPT by ꧁ Ꮻ Ꮩ ꮖ ㄨ 🂡 ꧂
 <pre>İnstall ; ➥ <a href='https://play.google.com/store/apps/details?id=com.rhmsoft.edit&hl=en_US&gl=US'>【 QuickEdit Download 】</a> 
 Discord ➥ O V i X#8005
-İnstagram ➥ <a href='https://www.instagram.com/ovix43/'>ovix43</a>
 
 <img src='https://cdn.discordapp.com/attachments/1042217458775371890/1050052416801865779/Ekran_Goruntusu_61.png'/>
 
